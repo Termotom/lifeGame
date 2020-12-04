@@ -1,6 +1,10 @@
 # lifeGame
 Jeu de la vie
 
+Necessite un serveur web pour fonctionner (apache).
+
+Langage de programmation javascript.
+
 Par défaut la grille du jeu de la vie est de 100 sur 100.
 
 La fonction de setup met en place la grille de départ avec les cellules vivantes (1) de départ.
